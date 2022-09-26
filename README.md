@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Arun Reddy Nalla, a student at the University of Windsor who is pursuing a Master's in Applied Computing. I am looking for a co-op position in May 2023 in software development, testing, and other similar areas in a company where I can use and improve my skill set for the benefit of the organisation. With my creative idea, I aim to create features that can help in the growth of the Company.
+I'm Arun Reddy Nalla, a student at the University of Windsor who is pursuing a Master's in Applied Computing. I am looking for a co-op position in May 2023 in Software Development, Testing, and other similar areas in a company where I can use and improve my skill set for the benefit of the organisation. With my creative idea, I aim to create features that can help in the growth of the Company.
 
 
 
